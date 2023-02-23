@@ -6,10 +6,6 @@
 
 This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -42,9 +38,10 @@ Users should be able to:
 - CSS custom properties
 - Javascript
 - Flexbox
+- API
 - Mobile-first workflow
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@salawekesa](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@salawekesa](https://www.twitter.com/yourusername)
+- Website - [advice-generator-app](https://advice-generator-app-eight-phi.vercel.app/)
+- Frontend Mentor - [@salawekesa](https://www.frontendmentor.io/profile/salawekesa)
+- Twitter - [@salawekesa](https://www.twitter.com/salawekesa)
